@@ -1,0 +1,14 @@
+material Circle
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture circle_green.png
+        scale 10 10
+      }
+    }
+  }
+}
