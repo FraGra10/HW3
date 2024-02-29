@@ -87,7 +87,7 @@
     </physics>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>5.14039 -4.03034 2.8863 0 0.275643 2.35619</pose>
+        <pose>3.61766 -2.44889 1.87369 0 0.275643 2.35619</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
@@ -109,15 +109,15 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <state world_name='default'>
-      <sim_time>61 770000000</sim_time>
-      <real_time>0 0</real_time>
-      <wall_time>1708718267 761373302</wall_time>
-      <iterations>0</iterations>
+      <sim_time>287 690000000</sim_time>
+      <real_time>226 160825597</real_time>
+      <wall_time>1709167432 740991307</wall_time>
+      <iterations>22592</iterations>
       <model name='circular_object'>
-        <pose>1 0 1.5 0 1.57 0</pose>
+        <pose>1 -0.5 0.6 0 1.57 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>1 0 1.5 0 1.57 0</pose>
+          <pose>1 -0.5 0.6 0 1.57 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
